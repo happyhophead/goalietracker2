@@ -1,5 +1,8 @@
 {
   "name": "goalie-stats-tracker",
   "version": "1.0.0",
-  "description": "Goalie Stats Tracker"
+  "description": "Goalie Stats Tracker",
+  "scripts": {
+    "build": "echo 'No build required for static HTML'"
+  }
 }
