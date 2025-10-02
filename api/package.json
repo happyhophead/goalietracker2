@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0"
+  },
+  "devDependencies": {}
+}
